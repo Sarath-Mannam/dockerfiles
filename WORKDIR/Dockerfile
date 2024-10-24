@@ -1,5 +1,5 @@
 FROM almalinux:8
 RUN cd /tmp
-RUN echo "Hello Dockerr" > hello.txt
+RUN echo "Hello Docker" > hello.txt
 
 
